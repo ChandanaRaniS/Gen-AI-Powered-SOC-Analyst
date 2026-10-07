@@ -1,0 +1,13 @@
+{
+    "id": "1791301159.20317",
+    "timestamp": "2026-10-06T21:09:19.620+0530",
+    "description": "Healthcare SSH Brute Force Attack",
+    "agent": "chandana-virtual-machine",
+    "mitre": [],
+    "technique": [],
+    "full_log": "{\"system\":\"Hospital_Admin_Server\",\"attack_type\":\"SSH_Brute_Force\",\"severity\":\"High\",\"destination_port\":22,\"flow_duration\":12020053,\"user_role\":\"Admin\"}",
+    "attack_type": "SSH_Brute_Force",
+    "severity": "High",
+    "system": "Hospital_Admin_Server",
+    "destination_port": 22
+}

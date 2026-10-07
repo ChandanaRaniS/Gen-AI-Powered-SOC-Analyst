@@ -1,0 +1,14 @@
+﻿venv/
+__pycache__/
+*.pyc
+.env
+*.env
+.vscode/
+
+**/__pycache__/
+*.pyc
+
+data/cve.json
+cve_db/
+mitre_db/
+nist_db/
